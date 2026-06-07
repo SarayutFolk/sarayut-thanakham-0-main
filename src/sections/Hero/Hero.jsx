@@ -8,7 +8,7 @@ import githubLight from '../../assets/github-light.svg';
 import githubDark from '../../assets/github-dark.svg';
 import linkedinLight from '../../assets/linkedin-light.svg';
 import linkedinDark from '../../assets/linkedin-dark.svg';
-import Resume from '../../assets/Resume Sarayut Thanakham..pdf'
+import Resume from '../../assets/Resume.pdf'
 import { useTheme } from '../../components/ThemeContext';
 import { motion } from 'framer-motion';
 
